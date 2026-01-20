@@ -1,6 +1,5 @@
-
-                        // task 3//
-
+                           --Task 3
+                  
 SELECT *
 FROM students;
 
@@ -81,8 +80,8 @@ WHERE age > 20 AND age < 25;
 
 
 
-                       Task 3
-////////////////////////////
+                     --  Task 3
+
 
 SELECT * FROM students WHERE age > 21;
 
